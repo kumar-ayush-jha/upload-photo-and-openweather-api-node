@@ -80,7 +80,7 @@ npm start
 **Example:**
 
 ```bash
-GET http://localhost:3000/api/weather/delhi
+GET http://localhost:3000/api/weather/jalandhar
 ```
 
 **Response:**
